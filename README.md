@@ -1,50 +1,58 @@
-# 🚀 Harsh | Full-Stack Web Developer
+# 🚀 Harsh Manmode | Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey!+I'm+Harsh+%F0%9F%91%8B;Full-Stack+Web+Developer;Shopify+Expert+%F0%9F%92%B3;Open+Source+Contributor+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8C%8D)](https://git.io/typing-svg)
-
----
-
-## 🧑‍💻 About Me
-
-- 💼 Working with *Shopify*, Liquid templates, and modern frontend tools.
-- 🎨 Passionate about crafting *clean UIs* and scalable backend architectures.
-- 🧰 Tech stack: *JavaScript, **React, **Node.js (Express), **Sequelize, **TailwindCSS, **Liquid, **MySQL, **MongoDB*.
-- ⚡ Love automating things, solving challenging problems, and optimizing performance.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey!+I'm+Harsh+%F0%9F%91%8B;Full-Stack+Web+Developer;Competitive+Programmer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%92%A1;Lifelong+Learner+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 ---
 
-## 🛠 Tech & Tools
+## 💫 About Me
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,html,css,mysql,mongodb,shopify,git,github" alt="Tech stack icons" />
-
----
-
-## ✨ Featured Projects
-
-🌟 **[Shopify Customizer App](https://github.com/yourusername/shopify-customizer)** — Built a fully customizable Shopify app with advanced product configuration and admin panel.
-
-⚡ **[Team & Client Manager](https://github.com/yourusername/team-client-manager)** — Express + Sequelize app for managing teams and clients with JWT authentication, email integrations, and role-based access.
-
-🔒 **[Secure Auth Boilerplate](https://github.com/yourusername/secure-auth-boilerplate)** — Modern boilerplate for secure authentication using JWT, Nodemailer (Hostinger SMTP), and Sequelize.
+- 🎓 B.Tech in Information Technology @ MITS Gwalior 
+- 💼 Full-Stack Developer Intern @ Second Brain UAI
+- ⚙ Tech Stack: *MERN*, Tailwind CSS, EJS, MySQL, REST APIs
+- 💡 Passionate about solving real-world problems through code (300+ DSA solutions!)
+- 🥇 Competitive programmer with global LeetCode rank in top 6.9%
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Skills & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Harsh's stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Harsh's streak"/>
-</p>
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,mysql,html,css,tailwind,bootstrap,java,cpp,git,github,linux)
 
 ---
 
-## 🌐 Let's Connect
+## 🌟 Projects
 
-- 💼 [Portfolio Website](https://yourwebsite.com)  
-- 🐦 [Twitter](https://twitter.com/yourusername)  
-- 💬 [LinkedIn](https://linkedin.com/in/yourusername)  
-- ✉ harsh.email@example.com
+### 🏨 Wanderlust Travel Accommodation Platform
+- Connects 5+ hosts with 200+ monthly users globally
+- Improved booking completion by *38%* and maintained 99.9% uptime
+- [GitHub Repo](https://github.com/Harsh-2006-git/WonderLust_Harsh_09)
+
+### 💊 Healthcare App
+- AI-powered chatbot assisting users monthly with 92% accuracy
+- Voice recognition & location-based hospital discovery features
+- [GitHub Repo](https://github.com/Harsh-2006-git/Healthcare-HDIMS)
 
 ---
 
-⭐ If you like what I do, feel free to star ⭐ my repos or reach out for collaborations!
+## 💡 Achievements
+
+- 🏆 *LeetCode Weekly Contest* - Global Rank: *987*
+- 🔥 Solved Top Interview 150 on LeetCode
+- 💪 Solved *300+* DSA problems across LeetCode & GFG
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-manmode-2a0b91325)
+- 💻 [GitHub](https://github.com/Harsh-2006-git)
+- 💬 [LeetCode](https://leetcode.com/u/its_Harsh_09/)
+- ✉ harshmanmode79@gmail.com
+
+---
+
+⭐ If you like my work, feel free to star ⭐ my repos and connect!
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Harsh-2006-git)
