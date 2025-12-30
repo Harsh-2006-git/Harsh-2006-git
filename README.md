@@ -16,26 +16,32 @@
 
 ## 🛠 Skills & Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,mysql,html,css,tailwind,bootstrap,java,cpp,git,github,linux)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,mysql,html,css,tailwind,bootstrap,java,cpp,git,github)
 
 ---
 
 ## 🌟 Projects
 
-### 🏨 Wanderlust Travel Accommodation Platform
-- Connects 5+ hosts with 200+ monthly users globally
-- Improved booking completion by *38%* and maintained 99.9% uptime
+### Wanderlust Travel Accommodation Platform
+- Built an alumni networking platform for 1000+ users with real-time chat and mentorship matching.
+- Developed AI-driven job recommendation engine that analyzes user skills and career history, providing personalized job matches with 85% relevance accuracy.
+- Added event coordination, open-source tracking, and fundraising modules, increasing user engagement by 65%.
+- Added testing and debugging workflows with Postman and GitHub version control, ensuring stable and clean code. 
 - [GitHub Repo](https://github.com/Harsh-2006-git/WonderLust_Harsh_09)
 
-### 💊 Healthcare App
-- AI-powered chatbot assisting users monthly with 92% accuracy
-- Voice recognition & location-based hospital discovery features
-- [GitHub Repo](https://github.com/Harsh-2006-git/Healthcare-HDIMS)
+### Alumni Engagements Networking Platform 
+- Built an alumni networking platform for 1000+ users with real-time chat and mentorship matching. 
+- Integrated LinkedIn API for live alumni directory, reducing manual data entry by 80%. 
+- Developed AI-driven job recommendation engine that analyzes user skills and career history, providing personalized job matches with 85% relevance accuracy. 
+- Added event coordination, open-source tracking, and fundraising modules, increasing user engagement by 65%. 
+- Added testing and debugging workflows with Postman and GitHub version control, ensuring stable and clean code. 
+- [GitHub Repo](https://github.com/Harsh-2006-git/Alumni-MITS)
 
 ---
 
 ## 💡 Achievements
 
+- 🏆 Winner HackSetu 1.0 – A national level 36 hour hackathon at Amity University Gwalior 
 - 🏆 *LeetCode Weekly Contest* - Global Rank: *987*
 - 🔥 Solved Top Interview 150 on LeetCode
 - 💪 Solved *300+* DSA problems across LeetCode & GFG
