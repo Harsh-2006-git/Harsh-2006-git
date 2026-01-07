@@ -20,24 +20,6 @@
 
 ---
 
-## 🌟 Projects
-
-### Wanderlust Travel Accommodation Platform
-- Built an alumni networking platform for 1000+ users with real-time chat and mentorship matching.
-- Developed AI-driven job recommendation engine that analyzes user skills and career history, providing personalized job matches with 85% relevance accuracy.
-- Added event coordination, open-source tracking, and fundraising modules, increasing user engagement by 65%.
-- Added testing and debugging workflows with Postman and GitHub version control, ensuring stable and clean code. 
-- [GitHub Repo](https://github.com/Harsh-2006-git/WonderLust_Harsh_09)
-
-### Alumni Engagements Networking Platform 
-- Built an alumni networking platform for 1000+ users with real-time chat and mentorship matching. 
-- Integrated LinkedIn API for live alumni directory, reducing manual data entry by 80%. 
-- Developed AI-driven job recommendation engine that analyzes user skills and career history, providing personalized job matches with 85% relevance accuracy. 
-- Added event coordination, open-source tracking, and fundraising modules, increasing user engagement by 65%. 
-- Added testing and debugging workflows with Postman and GitHub version control, ensuring stable and clean code. 
-- [GitHub Repo](https://github.com/Harsh-2006-git/Alumni-MITS)
-
----
 
 ## 💡 Achievements
 
