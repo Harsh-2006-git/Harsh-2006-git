@@ -32,10 +32,7 @@
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-manmode-2a0b91325)
-- 💻 [GitHub](https://github.com/Harsh-2006-git)
-- 💬 [LeetCode](https://leetcode.com/u/its_Harsh_09/)
-- ✉ harshmanmode79@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-manmode-2a0b91325)  || 💻 [GitHub](https://github.com/Harsh-2006-git) || 💬 [LeetCode](https://leetcode.com/u/its_Harsh_09/) || ✉ harshmanmode79@gmail.com
 
 ---
 
