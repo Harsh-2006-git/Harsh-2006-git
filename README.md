@@ -24,7 +24,7 @@
 ## 💡 Achievements
 
 - 🏆 Winner HackSetu 1.0 – A national level 36 hour hackathon at Amity University Gwalior 
-- 🏆 *LeetCode Weekly Contest* - Global Rank: *987*
+- 🏆 *LeetCode Weekly Contest* - Contest max Rating-1,609
 - 🔥 Solved Top Interview 150 on LeetCode
 - 💪 Solved *300+* DSA problems across LeetCode & GFG
 
