@@ -27,4 +27,3 @@
 
 
 
-this is the readme file of my github profile which is shown on my own github profile and make this file very stylish and cool looking and responsive as and should look very stylish and add a effect on the tech stack alo
