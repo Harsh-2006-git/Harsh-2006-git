@@ -1,29 +1,115 @@
-# 🚀 Harsh Manmode | Full-Stack Developer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey!+I'm+Harsh+%F0%9F%91%8B;Full-Stack+Web+Developer;Competitive+Programmer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%92%A1;Lifelong+Learner+%F0%9F%8C%8D)](https://git.io/typing-svg)
----
-## 💫 About Me
-- 🎓 B.Tech in Information Technology @ MITS Gwalior 
-- 💼 Full-Stack Developer Intern @ Second Brain UAI
-- ⚙ Tech Stack: *MERN*, Tailwind CSS, EJS, MySQL, REST APIs
-- 💡 Passionate about solving real-world problems through code (300+ DSA solutions!)
-- 🥇 Competitive programmer with global LeetCode rank in top 6.9%
----
-## 🛠 Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,mysql,html,css,tailwind,bootstrap,java,cpp,git,github)
----
-## 💡 Achievements
-- 🏆 Winner HackSetu 1.0 – A national level 36 hour hackathon at Amity University Gwalior 
-- 🏆 *LeetCode Weekly Contest* - Contest max Rating-1,609
-- 🔥 Solved Top Interview 150 on LeetCode
-- 💪 Solved *300+* DSA problems across LeetCode & GFG
----
-## 🔗 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-manmode-2a0b91325)  || 💻 [GitHub](https://github.com/Harsh-2006-git) || 💬 [LeetCode](https://leetcode.com/u/its_Harsh_09/) || ✉ harshmanmode79@gmail.com
----
-⭐ If you like my work, feel free to star ⭐ my repos and connect!
----
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Harsh-2006-git)
+<h1 align="center">Hi 👋, I'm Harsh Manmode</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Competitive Programmer</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Competitive+Programmer;300%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
+</p>
 
+---
 
+# 💫 About Me
 
+🎓 **B.Tech in Information Technology** @ MITS Gwalior  
+💼 **Full Stack Developer Intern** @ Second Brain UAI  
+
+💡 Passionate about building **real-world applications** and solving **complex problems with code**
+
+🔥 **300+ DSA Problems Solved** across LeetCode & GFG  
+
+🥇 **Global LeetCode Rank: Top 6.9%**
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,mysql,html,css,tailwind,bootstrap,java,cpp,git,github&perline=7" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh-2006-git&show_icons=true&theme=tokyonight&border_radius=10"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-2006-git&layout=compact&theme=tokyonight&border_radius=10"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harsh-2006-git&theme=tokyonight&border_radius=10"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏆 **Winner — HackSetu 1.0**  
+National Level 36 Hour Hackathon @ Amity University Gwalior  
+
+🔥 **LeetCode Weekly Contest**  
+Max Rating **1609**
+
+💪 **300+ DSA Problems Solved**
+
+🎯 Completed **Top Interview 150**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/harsh-manmode-2a0b91325">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Harsh-2006-git">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/its_Harsh_09/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="mailto:harshmanmode79@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-2006-git&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Harsh-2006-git"/>
+
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, feel free to star ⭐ my repositories!
+</p>
