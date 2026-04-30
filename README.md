@@ -16,6 +16,11 @@
 - 🏆 *LeetCode Weekly Contest* - Contest max Rating-1,609
 - 🔥 Solved Top Interview 150 on LeetCode
 - 💪 Solved *300+* DSA problems across LeetCode & GFG
+
+---
+
+<img width="961" height="245" alt="image" src="https://github.com/user-attachments/assets/9a1fa398-2689-48aa-8330-e76d00a94f47" />
+
 ---
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-manmode-2a0b91325)  || 💻 [GitHub](https://github.com/Harsh-2006-git) || 💬 [LeetCode](https://leetcode.com/u/its_Harsh_09/) || ✉ harshmanmode79@gmail.com
