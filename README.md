@@ -32,7 +32,7 @@
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-manmode-2a0b91325)  || 💻 [GitHub](https://github.com/Harsh-2006-git) || 💬 [LeetCode](https://leetcode.com/u/its_Harsh_09/) || ✉ harshmanmode79@gmail.com
 ---
-⭐ If you like my work, feel free to star ⭐ my repos and connect!
+⭐ If you like my work, feel free to star my repo.
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Harsh-2006-git)
 
