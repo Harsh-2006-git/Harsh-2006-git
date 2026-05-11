@@ -26,7 +26,9 @@
   <img src="https://github.com/user-attachments/assets/7be8f533-e60a-45c2-947d-b16d6788ecaa" width="24%" alt="role_mentor" />
   <img src="https://github.com/user-attachments/assets/cb7aa78c-d5c0-4ec2-bde8-f8ca5e1deb30" width="24%" alt="role_contributor" />
 </div>
+
 ---
+
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-manmode-2a0b91325)  || 💻 [GitHub](https://github.com/Harsh-2006-git) || 💬 [LeetCode](https://leetcode.com/u/its_Harsh_09/) || ✉ harshmanmode79@gmail.com
 ---
