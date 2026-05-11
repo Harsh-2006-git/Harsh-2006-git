@@ -12,15 +12,7 @@
 - 💡 Passionate about solving real-world problems through code (300+ DSA solutions!)  
 - 🥇 Competitive programmer with global LeetCode rank in top 6.9%  
 
----
 
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://www.harshmanmode.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -52,6 +44,16 @@
   <img src="https://github.com/user-attachments/assets/7be8f533-e60a-45c2-947d-b16d6788ecaa" width="24%" alt="role_mentor" />
   <img src="https://github.com/user-attachments/assets/cb7aa78c-d5c0-4ec2-bde8-f8ca5e1deb30" width="24%" alt="role_contributor" />
 </div>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://www.harshmanmode.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
