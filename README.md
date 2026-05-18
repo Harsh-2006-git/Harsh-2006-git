@@ -43,7 +43,7 @@
   <img src="https://github.com/user-attachments/assets/d3bd8136-d6e6-479d-baaf-911ebc68396a" width="24%" alt="role_pa" />
   <img src="https://github.com/user-attachments/assets/7be8f533-e60a-45c2-947d-b16d6788ecaa" width="24%" alt="role_mentor" />
   <img src="https://github.com/user-attachments/assets/cb7aa78c-d5c0-4ec2-bde8-f8ca5e1deb30" width="24%" alt="role_contributor" />
-  <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/15fa352b-c39c-42e9-a488-ae3bbdc30b8e" />
+  <img  width="24%" alt="image" src="https://github.com/user-attachments/assets/15fa352b-c39c-42e9-a488-ae3bbdc30b8e" />
 
 </div>
 
